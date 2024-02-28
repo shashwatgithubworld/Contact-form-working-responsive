@@ -10,7 +10,6 @@ This is a fully functional contact form created using HTML and CSS.
 
 - **Responsive Design**: The contact form is designed to work seamlessly across various devices and screen sizes.
 - **Validation**: Input fields are validated to ensure that users provide the required information in the correct format.
-- **Custom Styling**: The form is styled using CSS to match your website's theme or branding.
 - **Easy Integration**: You can easily integrate this contact form into your existing website by copying the HTML and CSS code.
 
 ## Usage
