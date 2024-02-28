@@ -1,8 +1,8 @@
-# Contact Form
+# Contact form working responsive
 
 ## Preview
 
-You can preview the contact form [here](https://contact-form-shashwat.netlify.app/).
+[Click here to Preview](https://contact-form-shashwat.netlify.app/).
 
 This is a fully functional contact form created using HTML and CSS.
 
