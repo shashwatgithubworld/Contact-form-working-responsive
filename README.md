@@ -17,7 +17,7 @@ This is a fully functional contact form created using HTML and CSS.
 1. Clone this repository to your local machine:
 
     ```
-    git clone https://github.com/your-username/contact-form.git
+    git clone https://github.com/shashwatgithubworld/contact-form.git
     ```
 
 2. Navigate to the project directory:
